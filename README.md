@@ -4,3 +4,4 @@
 2. pip install SpeechRecognition
 3. pip install playwright
 4. pip install openai
+5. instaliren https://ollama.com/download/windows
